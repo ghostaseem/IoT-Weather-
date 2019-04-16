@@ -6,7 +6,7 @@
 
 Adafruit_BMP085_Unified bmp = Adafruit_BMP085_Unified (10085);
 
-String apiKey = "1RS1R99TLWS4N8CY";
+String apiKey = ""; {YourAPI}
 const char* ssid = "ghostaseem";                       
 const char* password = "qwerty11";                              
 
